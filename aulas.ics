@@ -1,17 +1,27 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Aulas//PT-BR//
+PRODID:-//Gerador Agenda//PT-BR//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Skills and Go
+X-WR-CALNAME:Aula Skills and Go
 BEGIN:VEVENT
-UID:skillsandgo-20260721@aulas
-DTSTAMP:20260608T000000Z
-DTSTART:20260721T220000Z
-DTEND:20260722T010000Z
-RRULE:FREQ=WEEKLY;BYDAY=TU,TH;COUNT=4
+UID:agenda-20260612-0@gerador
+DTSTAMP:20260611T170757Z
+DTSTART:20260612T220000Z
+DTEND:20260613T010000Z
 SUMMARY:Aula Skills and Go
-DESCRIPTION:Olá! Seja muito bem-vindo(a) à Aula Skills and Go. É uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link abaixo no horário da aula — pronto\, você já estará na sala conosco. Acreditamos profundamente que a educação em tecnologia transforma trajetórias: estamos vivendo a era da Inteligência Artificial e de uma aceleração exponencial que abre novas formas de aprender\, trabalhar e criar impacto no mundo. Que esta experiência amplie seus horizontes e desperte todo o seu potencial. Conte com a gente em cada passo. Até logo!\n\nClique neste link e entre na aula: https://teams.microsoft.com/meet/225958527811437?p=Jaqjscdr4TQ8A2gCHu
-X-ALT-DESC;FMTTYPE=text/html:Olá! Seja muito bem-vindo(a) à Aula Skills and Go. É uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link abaixo no horário da aula — pronto\, você já estará na sala conosco. Acreditamos profundamente que a educação em tecnologia transforma trajetórias: estamos vivendo a era da Inteligência Artificial e de uma aceleração exponencial que abre novas formas de aprender\, trabalhar e criar impacto no mundo. Que esta experiência amplie seus horizontes e desperte todo o seu potencial. Conte com a gente em cada passo. Até logo!<br><br><b><a href="https://teams.microsoft.com/meet/225958527811437?p=Jaqjscdr4TQ8A2gCHu">Clique neste link e entre na aula</a></b>
+DESCRIPTION:Olá! Seja muito bem-vindo(a) à aula. É uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. Até logo!\n\nClique neste link e entre na aula: https://teams.microsoft.com/meet/225958527811437?p=Jaqjscdr4TQ8A2gCHu
+X-ALT-DESC;FMTTYPE=text/html:Olá! Seja muito bem-vindo(a) à aula. É uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. Até logo!<br><br><b><a href="https://teams.microsoft.com/meet/225958527811437?p=Jaqjscdr4TQ8A2gCHu">Clique neste link e entre na aula</a></b>
+LOCATION:Microsoft Teams — https://teams.microsoft.com/meet/225958527811437?p=Jaqjscdr4TQ8A2gCHu
+END:VEVENT
+BEGIN:VEVENT
+UID:agenda-20260613-1@gerador
+DTSTAMP:20260611T170757Z
+DTSTART:20260613T220000Z
+DTEND:20260614T010000Z
+SUMMARY:Aula Skills and Go
+DESCRIPTION:Olá! Seja muito bem-vindo(a) à aula. É uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. Até logo!\n\nClique neste link e entre na aula: https://teams.microsoft.com/meet/225958527811437?p=Jaqjscdr4TQ8A2gCHu
+X-ALT-DESC;FMTTYPE=text/html:Olá! Seja muito bem-vindo(a) à aula. É uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. Até logo!<br><br><b><a href="https://teams.microsoft.com/meet/225958527811437?p=Jaqjscdr4TQ8A2gCHu">Clique neste link e entre na aula</a></b>
+LOCATION:Microsoft Teams — https://teams.microsoft.com/meet/225958527811437?p=Jaqjscdr4TQ8A2gCHu
 END:VEVENT
 END:VCALENDAR
